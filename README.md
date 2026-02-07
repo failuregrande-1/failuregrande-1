@@ -1,4 +1,5 @@
-## Hi there 👋
+<img src="https://i.pinimg.com/originals/a5/4d/d4/a54dd4e52023d5a5c3ecbcc6401e357b.gif" width="500">
+
 
 <!--
 **failuregrande-1/failuregrande-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
